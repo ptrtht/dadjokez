@@ -1,5 +1,7 @@
 # dadjokz
 > A sample "weekend project", it shows randomly generated dad jokes. You can save them or search for them.
+
+Deployed on vercel: [dadjokez-qty0.vercel.app](https://dadjokez-qty0.vercel.app/#/)
 ## Example Screenshots
 
 
