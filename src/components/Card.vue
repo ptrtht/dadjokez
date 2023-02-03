@@ -10,7 +10,7 @@
           </li>
         </ul>
       </div>
-      <p class="card-text">
+      <p class="card-text lead">
         {{ text }}
       </p>
     </div>
