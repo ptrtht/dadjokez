@@ -57,7 +57,7 @@ export default {
   data() {
     return {
       res: [],
-      page: 1,
+      page: 6,
     };
   },
   components: {
